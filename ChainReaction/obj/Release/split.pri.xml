@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="47249RaghavJajodia.ChainingReactions" version="1.0" primary="true">
+		<Qualifiers>
+			<Scale>240</Scale>
+		</Qualifiers>
+		<ResourceMapSubtree name="Files">
+			<NamedResource name="App.xbf" uri="ms-resource://47249RaghavJajodia.ChainingReactions/Files/App.xbf">
+				<Candidate type="Path">
+					<Value>App.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="BlankPage1.xbf" uri="ms-resource://47249RaghavJajodia.ChainingReactions/Files/BlankPage1.xbf">
+				<Candidate type="Path">
+					<Value>BlankPage1.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ChainReaction.xr.xml" uri="ms-resource://47249RaghavJajodia.ChainingReactions/Files/ChainReaction.xr.xml">
+				<Candidate type="Path">
+					<Value>ChainReaction.xr.xml</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MainPage.xbf" uri="ms-resource://47249RaghavJajodia.ChainingReactions/Files/MainPage.xbf">
+				<Candidate type="Path">
+					<Value>MainPage.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Page1.xbf" uri="ms-resource://47249RaghavJajodia.ChainingReactions/Files/Page1.xbf">
+				<Candidate type="Path">
+					<Value>Page1.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Page2.xbf" uri="ms-resource://47249RaghavJajodia.ChainingReactions/Files/Page2.xbf">
+				<Candidate type="Path">
+					<Value>Page2.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Page4.xbf" uri="ms-resource://47249RaghavJajodia.ChainingReactions/Files/Page4.xbf">
+				<Candidate type="Path">
+					<Value>Page4.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="README_FIRST.txt" uri="ms-resource://47249RaghavJajodia.ChainingReactions/Files/README_FIRST.txt">
+				<Candidate type="Path">
+					<Value>README_FIRST.txt</Value>
+				</Candidate>
+			</NamedResource>
+			<ResourceMapSubtree name="Assets">
+				<NamedResource name="back.jpg" uri="ms-resource://47249RaghavJajodia.ChainingReactions/Files/Assets/back.jpg">
+					<Candidate type="Path">
+						<Value>Assets\back.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="back2.jpg" uri="ms-resource://47249RaghavJajodia.ChainingReactions/Files/Assets/back2.jpg">
+					<Candidate type="Path">
+						<Value>Assets\back2.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="background.jpg" uri="ms-resource://47249RaghavJajodia.ChainingReactions/Files/Assets/background.jpg">
+					<Candidate type="Path">
+						<Value>Assets\background.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="background_3.jpg" uri="ms-resource://47249RaghavJajodia.ChainingReactions/Files/Assets/background_3.jpg">
+					<Candidate type="Path">
+						<Value>Assets\background_3.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Chain-reaction1.jpg" uri="ms-resource://47249RaghavJajodia.ChainingReactions/Files/Assets/Chain-reaction1.jpg"/>
+				<NamedResource name="Chain-reaction1.scale.jpg" uri="ms-resource://47249RaghavJajodia.ChainingReactions/Files/Assets/Chain-reaction1.scale.jpg"/>
+				<NamedResource name="Chain-reaction2.jpg" uri="ms-resource://47249RaghavJajodia.ChainingReactions/Files/Assets/Chain-reaction2.jpg">
+					<Candidate type="Path">
+						<Value>Assets\Chain-reaction2.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="final.png" uri="ms-resource://47249RaghavJajodia.ChainingReactions/Files/Assets/final.png">
+					<Candidate type="Path">
+						<Value>Assets\final.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="final5x5.png" uri="ms-resource://47249RaghavJajodia.ChainingReactions/Files/Assets/final5x5.png">
+					<Candidate type="Path">
+						<Value>Assets\final5x5.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="finalSplash.jpg" uri="ms-resource://47249RaghavJajodia.ChainingReactions/Files/Assets/finalSplash.jpg">
+					<Candidate type="Path">
+						<Value>Assets\finalSplash.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="icon.jpg" uri="ms-resource://47249RaghavJajodia.ChainingReactions/Files/Assets/icon.jpg">
+					<Candidate type="Path">
+						<Value>Assets\icon.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="icon150.jpg" uri="ms-resource://47249RaghavJajodia.ChainingReactions/Files/Assets/icon150.jpg">
+					<Candidate type="Path">
+						<Value>Assets\icon150.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="icon71.jpg" uri="ms-resource://47249RaghavJajodia.ChainingReactions/Files/Assets/icon71.jpg">
+					<Candidate type="Path">
+						<Value>Assets\icon71.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Logo.png" uri="ms-resource://47249RaghavJajodia.ChainingReactions/Files/Assets/Logo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\Logo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SmallLogo.png" uri="ms-resource://47249RaghavJajodia.ChainingReactions/Files/Assets/SmallLogo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\SmallLogo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SplashScreen.png" uri="ms-resource://47249RaghavJajodia.ChainingReactions/Files/Assets/SplashScreen.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\SplashScreen.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square71x71Logo.png" uri="ms-resource://47249RaghavJajodia.ChainingReactions/Files/Assets/Square71x71Logo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\Square71x71Logo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="StoreLogo.png" uri="ms-resource://47249RaghavJajodia.ChainingReactions/Files/Assets/StoreLogo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\StoreLogo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Tick.mp3" uri="ms-resource://47249RaghavJajodia.ChainingReactions/Files/Assets/Tick.mp3">
+					<Candidate type="Path">
+						<Value>Assets\Tick.mp3</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="WideLogo.png" uri="ms-resource://47249RaghavJajodia.ChainingReactions/Files/Assets/WideLogo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\WideLogo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Toolkit.Content">
+				<NamedResource name="ApplicationBar.Add.png" uri="ms-resource://47249RaghavJajodia.ChainingReactions/Files/Toolkit.Content/ApplicationBar.Add.png">
+					<Candidate type="Path">
+						<Value>Toolkit.Content\ApplicationBar.Add.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ApplicationBar.Cancel.png" uri="ms-resource://47249RaghavJajodia.ChainingReactions/Files/Toolkit.Content/ApplicationBar.Cancel.png">
+					<Candidate type="Path">
+						<Value>Toolkit.Content\ApplicationBar.Cancel.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ApplicationBar.Check.png" uri="ms-resource://47249RaghavJajodia.ChainingReactions/Files/Toolkit.Content/ApplicationBar.Check.png">
+					<Candidate type="Path">
+						<Value>Toolkit.Content\ApplicationBar.Check.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ApplicationBar.Delete.png" uri="ms-resource://47249RaghavJajodia.ChainingReactions/Files/Toolkit.Content/ApplicationBar.Delete.png">
+					<Candidate type="Path">
+						<Value>Toolkit.Content\ApplicationBar.Delete.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ApplicationBar.Select.png" uri="ms-resource://47249RaghavJajodia.ChainingReactions/Files/Toolkit.Content/ApplicationBar.Select.png">
+					<Candidate type="Path">
+						<Value>Toolkit.Content\ApplicationBar.Select.png</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

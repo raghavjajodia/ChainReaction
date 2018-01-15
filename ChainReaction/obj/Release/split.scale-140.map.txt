@@ -1,0 +1,8 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.scale-140"
+"ResourceDimensions"		"scale-140"
+
+[Files]
+"E:\PROJECTS\windows phone project\ChainReaction\ChainReaction\ChainReaction\obj\Release\split.scale-140.pri"			"resources.pri"
+"E:\PROJECTS\windows phone project\ChainReaction\ChainReaction\ChainReaction\obj\Release\PackageLayout\Assets\Chain-reaction1.scale.scale-140.jpg"			"Assets\Chain-reaction1.scale.scale-140.jpg"
+"E:\PROJECTS\windows phone project\ChainReaction\ChainReaction\ChainReaction\obj\Release\PackageLayout\Assets\Chain-reaction1.scale-140.jpg"			"Assets\Chain-reaction1.scale-140.jpg"

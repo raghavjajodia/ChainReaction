@@ -1,0 +1,7 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.scale-100"
+"ResourceDimensions"		"scale-100"
+
+[Files]
+"E:\PROJECTS\windows phone project\ChainReaction\ChainReaction\ChainReaction\obj\Release\split.scale-100.pri"			"resources.pri"
+"E:\PROJECTS\windows phone project\ChainReaction\ChainReaction\ChainReaction\obj\Release\PackageLayout\Assets\Chain-reaction1.scale.scale-100.jpg"			"Assets\Chain-reaction1.scale.scale-100.jpg"

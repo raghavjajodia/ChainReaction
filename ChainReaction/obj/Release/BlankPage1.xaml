@@ -1,0 +1,78 @@
+﻿<Page
+    x:Class="ChainReaction.BlankPage1"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:ChainReaction"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="329*"/>
+            <RowDefinition Height="311*"/>
+        </Grid.RowDefinitions>
+        <Grid.Background>
+            <ImageBrush Stretch="Fill" ImageSource="Assets/background.jpg"/>
+        </Grid.Background>
+        <TextBlock HorizontalAlignment="Left" Height="768" TextWrapping="Wrap" VerticalAlignment="Top" Width="400" Margin="0,0,0,-128" Grid.RowSpan="2" >
+        	<Run FontWeight="Bold" FontSize="40" Text="&#x9;">
+        		<Run.Foreground>
+        			<SolidColorBrush Color="#FFC9BDBD">
+        				<SolidColorBrush.RelativeTransform>
+        					<MatrixTransform Matrix="Identity"/>
+        				</SolidColorBrush.RelativeTransform>
+        				<SolidColorBrush.Transform>
+        					<MatrixTransform Matrix="Identity"/>
+        				</SolidColorBrush.Transform>
+        			</SolidColorBrush>
+        		</Run.Foreground>
+        	</Run>
+        	<LineBreak/>
+        	<Run FontWeight="Bold" FontSize="40" Text="   ">
+        		<Run.Foreground>
+        			<SolidColorBrush Color="#FFC9BDBD">
+        				<SolidColorBrush.RelativeTransform>
+        					<MatrixTransform Matrix="Identity"/>
+        				</SolidColorBrush.RelativeTransform>
+        				<SolidColorBrush.Transform>
+        					<MatrixTransform Matrix="Identity"/>
+        				</SolidColorBrush.Transform>
+        			</SolidColorBrush>
+        		</Run.Foreground>
+        	</Run>
+        	<LineBreak/>
+        	<Run FontWeight="Bold" FontSize="40" Text="  ~INSTRUCTIONS~">
+        		<Run.Foreground>
+        			<SolidColorBrush Color="#FFC9BDBD">
+        				<SolidColorBrush.RelativeTransform>
+        					<MatrixTransform Matrix="Identity"/>
+        				</SolidColorBrush.RelativeTransform>
+        				<SolidColorBrush.Transform>
+        					<MatrixTransform Matrix="Identity"/>
+        				</SolidColorBrush.Transform>
+        			</SolidColorBrush>
+        		</Run.Foreground>
+        	</Run>
+        	<LineBreak/>
+        	<Run/>
+        	<LineBreak/>
+        	<Run FontWeight="Bold" FontSize="20"/>
+        	<LineBreak/>
+        	<Run FontWeight="Bold" FontSize="24" Text="The aim of this game is to eliminate all the tiles of opponent players."/>
+        	<LineBreak/>
+        	<Run FontWeight="Bold" FontSize="24"/>
+        	<LineBreak/>
+        	<Run FontWeight="Bold" FontSize="24" Text="Player chance is indicated by the grid color. On his chance, a player can tap any unselected or his own tile, increasing the count on the tile. Corner tiles split on count of 2, edge tiles on 3 and remaining on 4. Split tiles increase the count on the adjacent tiles. The splitting tile may even color the opponents tiles."/>
+        	<LineBreak/>
+        	<Run FontWeight="Bold" FontSize="72" Text=""/>
+        	<LineBreak/>
+        	<Run FontWeight="Bold" FontSize="20"/>
+        	<LineBreak/>
+        </TextBlock>
+
+        <!--LayoutRoot is the root grid where all page content is placed-->
+    </Grid>
+</Page>
+

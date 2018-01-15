@@ -1,0 +1,4 @@
+MainPackage=E:\PROJECTS\windows phone project\ChainReaction\ChainReaction\ChainReaction\bin\Release\ChainReaction_1.1.0.8_Bundle\ChainReaction_1.1.0.8_AnyCPU.appx
+SymbolPackage=E:\PROJECTS\windows phone project\ChainReaction\ChainReaction\ChainReaction\AppPackages\ChainReaction_1.1.0.8_Test\ChainReaction_1.1.0.8_AnyCPU.appxsym
+ResourcePack=E:\PROJECTS\windows phone project\ChainReaction\ChainReaction\ChainReaction\bin\Release\ChainReaction_1.1.0.8_Bundle\ChainReaction_1.1.0.8_scale-100.appx
+ResourcePack=E:\PROJECTS\windows phone project\ChainReaction\ChainReaction\ChainReaction\bin\Release\ChainReaction_1.1.0.8_Bundle\ChainReaction_1.1.0.8_scale-140.appx
